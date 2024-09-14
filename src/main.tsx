@@ -1,5 +1,5 @@
 import "./main.css";
-import Container from "./components/Container";
+import Board from "./components/board";
 export function Main() {
-	return <Container />;
+	return <Board />;
 }
